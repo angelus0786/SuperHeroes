@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SuperHeroes</string>
+    <string name="superman">Superman</string>
+    <string name="wonder">Wonder Woman</string>
+    <string name="flash">Flash</string>
+    <string name="batman">Batman</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="des_super">Entre sus poderes se cuenta la súper fuerza, invulnerabilidad, la capacidad de volar, visión calorífica, el aliento helado</string>
+    <string name="des_wonder">Super vuelo, súper fuerza, inmortalidad, factor de curación, super velocidad, reflejos, resistencia, brazaletes que repelen cualquier tipo de arma, habilidad de lucha altamente desarrollada y posee un lazo mágico</string>
+    <string name="des_flash">Barry Allen es un hombre de múltiples habilidades. No es solo un excelente detective forense y el hombre más rápido del mundo; en simultáneo, Flash cuenta con una extensa lista de poderes extra que lo ayudan a salir de problemas específicos (o a meterse en ellos) y atrapar de manera creativa a sus enemigos.</string>
+    <string name="des_batman">Batman es en realidad Bruce Wayne, un humano entrenado buscando la perfección física y mental, los límites de la especie. Y es por ello que, aunque no tiene superpoderes de origen fantástico como los de Superman, Aquaman, Wonder Woman, los poderes que posee sí que resultan extraordinarios.</string>
+</resources>
